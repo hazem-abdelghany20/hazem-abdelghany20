@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Project Management**
 
-- 👨‍💻 More details are available at <a href="hazemabdelghany.com" target="blank">my personal website </a>
+- 👨‍💻 More details are available at <a href="https://.hazemabdelghany.com" target="blank">my personal website </a>
 
 - 💬 Ask me about **Mern stack**
 
