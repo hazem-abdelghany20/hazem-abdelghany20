@@ -1,7 +1,7 @@
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)]
 <h1 align="center">Hi 👋, I'm Hazem</h1>
 <h3 align="center">A full-stack developer from Egypt</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-abdelghany20" alt="hazem-abdelghany20" /></a> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **AI-powered app for improving mental health and wellbeing for K-12 students**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hazem-abdelghany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hazem-abdelghany/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hazem_abdelghany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hazem_abdelghany/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hazem-abdelghany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hazem-abdelghany/" height="30" width="40" /></a>
+<a href="https://instagram.com/hazem_abdelghany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hazem_abdelghany/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
